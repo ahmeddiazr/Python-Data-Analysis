@@ -64,5 +64,5 @@ Untuk menjalankan Dasbor Analisis Kualitas Udara, ikuti langkah-langkah berikut:
 
 2. **Jalankan Aplikasi Streamlit**:
     ```
-    streamlit run dashboard.py
+    streamlit run dashboard/dashboard.py
     ```
